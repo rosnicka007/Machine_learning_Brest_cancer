@@ -2,7 +2,7 @@
 
 * Python version 3.11.2
 * Used libraries: TensorFlow, Scikit-learn, Pandas, Numpy, MatPlotLib
-* There was used classification sequential neural network that utilizes the sigmoid activation function on the output neuron to obtain classification probabilities
+* There was used binary classification sequential neural network that utilizes the sigmoid activation function on the output neuron to obtain classification probabilities
 * Model trained and tested on real dataset (CSV file)
 * A total of 4 models were prepared: one works with all available data and 3 other models with only selected columns (attributes).
 * The aim is to compare whether the accuracy of the model is affected by the quantity and type of input data.
